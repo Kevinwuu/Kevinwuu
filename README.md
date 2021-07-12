@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I'm a front-end developer working on multiple project using React and Nodejs
+
+🌱 Learning design patterns, TDD, redux-toolkit recently
+
+🤔 Trying to write something useful in my own blog build by hexo, but I'm still working on it~
 <!--
 **Kevinwuu/Kevinwuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@kevinwuu)
+
+<br>
+<br>
+
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/python%20-%231d57a8.svg?&style=for-the-badge&logo=python&logoColor=white" />
