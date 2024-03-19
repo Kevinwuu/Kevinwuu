@@ -4,7 +4,10 @@
 
 🌱 Learning design patterns, TDD, redux-toolkit recently
 
-🤔 Trying to write something useful in my own blog build by hexo, but I'm still working on it~
+🤔 Trying to write something useful in my own blog build by hexo
+
+ [https://chienwu.dev/](https://chienwu.dev/)
+
 <!--
 **Kevinwuu/Kevinwuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Connect with me
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@kevinwuu)
-
-<br>
 <br>
 
 ## Expertise
